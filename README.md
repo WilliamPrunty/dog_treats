@@ -15,7 +15,7 @@ Having a pet with allergies and dietary limitations has led my partner to prepar
 
 
 ## Minimum Viable Product (MVP)
--   A recipe from the top ingredients from the scraped data.
+-   A recipe from the select ingredients from the scraped data.
 
 -   Excel based costing sheet to understand expected recipe costs.
 
@@ -33,3 +33,4 @@ Having a pet with allergies and dietary limitations has led my partner to prepar
 ## Technology
 -   Python - Pandas, Selenium, RegEx, WordCloud, BeautifulSoup, HTML
 -   Excel 
+-   ChatGPT
