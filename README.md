@@ -1,11 +1,11 @@
 # Analysis of Biscuit Type Dog Treats
 
 ## Overview
-Utilizing information scraped from a popular pet supplies retailer, this project aims to explore what relationships exist between price, rating, and number of ingredients listed.
+Utilizing information scraped from a popular pet supplies retailer this project aims to explore what relationships exist between price, rating, and number of ingredients listed. 
 
 
 ## Motivation
-Having a pet with allergies and dietary limitations has led my partner to prepare dog treats at home. As she has gained experience catering to the needs of our pet, others have expressed interest in her product and process. I would like to gain some insight into what the current market looks like. Additionally, understanding of current treat prices at a retail scale may provide some guidelines on pricing.
+Having a pet with allergies and dietary limitations has led my partner to prepare dog treats at home. As she has gained experience catering to the needs of our pet, others have expressed interest in her product and process. I would like to gain some insight into what the current market looks like. Additionally, understanding of current treat prices at a retail scale may provide some guidelines on competitive pricing should she decide to market her treats.
 
 
 ## Data Question
@@ -15,9 +15,14 @@ Having a pet with allergies and dietary limitations has led my partner to prepar
 
 
 ## Minimum Viable Product (MVP)
--   A recipe from the select ingredients from the scraped data.
+-   Brief explanation of my findings and what I've learned from them, hosted on my portfolio page.
 
--   Excel based costing sheet to understand expected recipe costs.
+-   An AI generated recipe using ingredients from the scraped data.
+    -   Ingredients selected must be suitable for my dogs diet.
+    -   Ingredients should be considered wholesome, natural or otherwise made with limited processing.
+    -   Ingredients should be readily available in retail quantities.
+
+-   Excel based costing sheet to understand expected recipe costs and potential profits.
 
 
 ## Known Issues and Challenges
