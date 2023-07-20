@@ -1,7 +1,7 @@
 # Analysis of Biscuit Type Dog Treats
 
 ## Overview
-Utilizing information scraped from a popular pet supplies retailer this project aims to explore what relationships exist between price, rating, and number of ingredients listed. 
+Utilizing information scraped from a popular pet supplies retailer this project aims to explore what relationships exist between price, rating, and number of ingredients listed. Additionally, it investigates the economics of dog treats manufactured on a small scale versus commercially.  
 
 
 ## Motivation
@@ -9,13 +9,17 @@ Having a pet with allergies and dietary limitations has led my partner to prepar
 
 
 ## Data Question
-1.  Is there a relationship between reviews and prices?
+1.  What is in your pets treats?
 
-2.  Is there a relationship between 'limited ingredient' treats and price?
+2.  Is there a relationship between rating and price?
+
+3.  Is there a relationship between 'limited ingredient' treats and price?
+
+4.  Can a homemade treat compete against those produced commercially?
 
 
 ## Minimum Viable Product (MVP)
--   Brief explanation of my findings and what I've learned from them, hosted on my portfolio page.
+-   Brief explanation of my findings and what I've learned from them, hosted on my portfolio page. [Available here!](https://www.wprunty.com/project-page/python-analysis-of-biscuit-type-dog-treats)
 
 -   An AI generated recipe using ingredients from the scraped data.
     -   Ingredients selected must be suitable for my dogs diet.
